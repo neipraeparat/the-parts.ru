@@ -1,0 +1,36 @@
+
+@import url(//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css);
+* {
+  outline: none;
+  font-family: "Universe", sans-serif; }
+
+html, body{
+  font-size: 12px;
+}
+p{
+  margin: 0;
+  padding: 0;
+}
+.v-line{
+  border-left: 6px solid;
+  height: 500px;
+}
+.header{
+  font-family: Universe;
+  font-weight: 700;
+}
+.header__row-1{
+  font-size: 1.33em;
+  width: 100%;
+  height: 3.33em;
+  background-color: #dd2a1b;
+  color: #fff;
+}
+hr{ 
+  
+  border:         none;
+  border-left:    1px solid hsla(200, 10%, 50%,100);
+  height:         100vh;
+  width:          1px;       
+}
